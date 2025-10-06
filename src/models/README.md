@@ -1,0 +1,1 @@
+This directory will represent the models that are trained using the neural network.

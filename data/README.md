@@ -1,0 +1,1 @@
+This directory will represent the dataset for our neural network.

@@ -1,0 +1,1 @@
+This directory will represent the results of different evaluations of the model that are trained using the neural network.
